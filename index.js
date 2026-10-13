@@ -17,8 +17,6 @@ function changeFeaturedDrink() {
     featuredDrink = 'The JavaShake';
 }
 
-
-
 // Test the Code 
 
 addBurger();
