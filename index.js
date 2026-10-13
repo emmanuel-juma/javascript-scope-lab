@@ -14,7 +14,7 @@ if(true) {
 }
 
 function changeFeaturedDrink() {
-    featuredDrink = 'Strawberry Milkshake';
+    featuredDrink = 'The JavaShake';
 }
 
 // Test the Code 
