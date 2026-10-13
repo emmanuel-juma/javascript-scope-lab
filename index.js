@@ -1,21 +1,22 @@
 // Write your solution in this file!
 const burgers = ['Hamburger', 'Cheeseburger'];
 
-let featuredDrink = 'Strawberry Milkshake';
+let featuredDrink = 'The JavaShake';
 
 function addBurger() {
-  const newBurger = 'Flatburger';
-  burgers.push(newBurger);
+    const newBurger = 'Flatburger';
+    burgers.push(newBurger);
 }
 
-if (true) {
-  const anotherNewBurger = 'Maple Bacon Burger';
-  burgers.push(anotherNewBurger);
+if(true) {
+    const anotherNewBurger = 'Maple Bacon Burger';
+    burgers.push(anotherNewBurger);
 }
 
 function changeFeaturedDrink() {
-  featuredDrink = 'The JavaShake';
+    featuredDrink = 'Strawberry Milkshake';
 }
+
 // Test the Code 
 
 addBurger();
